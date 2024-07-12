@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Ranjan Yadav's Github Stats](https://github-readme-stats.vercel.app/api?username=ranjanydv)](https://github.com/ranjanydv/github-readme-stats)
+
 <!--
 **ranjanydv/ranjanydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
