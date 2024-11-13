@@ -5,6 +5,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanydv&theme=graywhite&layout=donut&hide=css,html,dart,kotlin" alt="languages"/>
 </div>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcSet="https://raw.githubusercontent.com/ranjanydv/ranjanydv/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcSet="https://raw.githubusercontent.com/ranjanydv/ranjanydv/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ranjanydv/ranjanydv/output/github-snake.svg" />
+</picture>
+
+
+
 <!--
 **ranjanydv/ranjanydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
