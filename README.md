@@ -167,14 +167,15 @@
 <div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ranjanydv&show_icons=true&theme=graywhite&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues&hide_rank=true"
         alt="stats" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanydv&theme=graywhite&layout=donut&hide=css,html,dart,kotlin"
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanydv&theme=graywhite&layout=donut&hide=css,html,dart,kotlin"
         alt="languages" />
 </div>
 <br>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=ranjanydv" alt="ranjanydv" /></a></p>
+                src="https://github-profile-trophy.vercel.app/?username=ranjanydv" alt="ranjanydv" /></a></p> -->
 <br>
 
+<h2>⚡️ Progress =...</h2>
 <picture>
 <source media="(prefers-color-scheme: dark)"
         srcSet="https://raw.githubusercontent.com/ranjanydv/ranjanydv/output/github-snake-dark.svg" />
