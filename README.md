@@ -175,7 +175,7 @@
                 src="https://github-profile-trophy.vercel.app/?username=ranjanydv" alt="ranjanydv" /></a></p> -->
 <br>
 
-<h2>⚡️ Progress =...</h2>
+<h2>⚡️ Progress...</h2>
 <picture>
 <source media="(prefers-color-scheme: dark)"
         srcSet="https://raw.githubusercontent.com/ranjanydv/ranjanydv/output/github-snake-dark.svg" />
